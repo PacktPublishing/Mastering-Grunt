@@ -1,0 +1,3 @@
+https://github.com/krampstudio/foodprint.io
+
+https://github.com/krampstudio/grunt-foodfact
